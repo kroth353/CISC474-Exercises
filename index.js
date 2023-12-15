@@ -6,4 +6,4 @@ $( document ).ready(function() {
         $('#jumbotron').text(fname + ' ' + lname);
         return false;
     })
-});
+}); 
